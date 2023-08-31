@@ -1,0 +1,7 @@
+Intuition
+Approach
+Using Hash Table
+
+Complexity
+Time complexity: O(m), where m is the size of reserve array
+Space complexity: if m < n, O(m) or if m >= n O(n)
